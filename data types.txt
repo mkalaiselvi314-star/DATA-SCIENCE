@@ -1,0 +1,41 @@
+Data types in Python:
+
+1. Integer (`int`)
+
+   * Stores **whole numbers** (positive or negative).
+   * Example: `10`, `-5`
+
+2. Float (`float`)
+
+   * Stores **decimal numbers**.
+   * Example: `3.14`, `2.5`
+
+3. String (`str`)
+
+   * Stores **text or characters** inside quotes.
+   * Example: `"Hello"`, `"Python"`
+
+4. Boolean (`bool`)
+
+   * Stores **True or False values**.
+   * Example: `True`, `False`
+
+5. List (`list`)
+
+   * Stores **multiple values in order** using square brackets `[ ]`.
+   * Example: `[1, 2, 3]`
+
+6. Tuple (`tuple`)
+
+   * Similar to list but **cannot be changed (immutable)**.
+   * Example: `(1, 2, 3)`
+
+7. Set (`set`)
+
+   * Stores **unique values** using `{ }`.
+   * Example: `{1, 2, 3}`
+
+8. Dictionary (`dict`)
+
+   * Stores **key–value pairs**.
+   * Example: `{"name": "Ram", "age": 

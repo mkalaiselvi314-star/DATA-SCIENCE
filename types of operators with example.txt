@@ -1,0 +1,63 @@
+TYPES OF OPERATORS WITH EXAMPLES:
+
+1. Arithmetic Operators:
+Used to perform mathematical operations.
+Operators: + , - , * , / , % , ** , //
+Example:
+a = 10
+b = 3
+print(a + b)   # Addition → 13
+print(a * b)   # Multiplication → 30
+
+
+2. Comparison (Relational) Operators:
+Used to compare two values.
+Operators: == , != , > , < , >= , <=
+Example:
+a = 10
+b = 5
+print(a > b)   # True
+print(a == b)  # False
+
+
+3. Logical Operators:
+Used to combine conditions.
+Operators: and , or , not
+Example:
+a = 10
+print(a > 5 and a < 20)   # True
+
+
+4. Assignment Operators:
+Used to assign values to variables.
+Operators: = , += , -= , *= , /=
+Example:
+x = 5
+x += 3
+print(x)   # 8
+
+
+5. Bitwise Operators:
+Used to perform bit-level operations.
+Operators: & , | , ^ , ~ , << , >>
+Example:
+a = 5
+b = 3
+print(a & b)   # 1
+
+
+6. Membership Operators:
+Used to check whether a value exists in a sequence.
+Operators: in , not in
+Example:
+list1 = [1, 2, 3, 4]
+print(2 in list1)   # True
+
+
+7. Identity Operators:
+Used to check whether two variables refer to the same object.
+Operators: is , is not
+Example:
+a = 5
+b = 5
+print(a is b)   # True
